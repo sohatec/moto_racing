@@ -15,51 +15,51 @@ This game is for all ages, anyone can play.
 * **Console Effects:** Integrates a real-time countdown timer and a vibrant ASCII Art interface.
 
 ## 🛠️ Technology used
-The project is written in Java programming language  
-Using IntelliJ IDEA 2026.2.3 and Amazon Corretto JDK 21.0.12  
-The project does not use any database management systems or connect to databases  
+The project is written in Java programming language<br>
+Using IntelliJ IDEA 2026.2.3 and Amazon Corretto JDK 21.0.12<br>
+The project does not use any database management systems or connect to databases<br>
 
 ## 🚀 Install and run
-1 -- Open CMD or Git Bash at the location where you want to save the project,  
-     then enter the following command to download the project:  
-     `git clone https://github.com/sohatec/moto_racing.git`.  
-     The download folder name should be "moto_racing".  
-2 -- Open any Java-supported IDE such as IntelliJ IDEA, Eclipse, NetBeans, and use JDK 21.  
-     Open the project named moto_racing, access src/Main.java, and then run it.  
+1 -- Open CMD or Git Bash at the location where you want to save the project,<br>
+     then enter the following command to download the project:<br>
+     `git clone https://github.com/sohatec/moto_racing.git`<br>
+     The download folder name should be "moto_racing".<br>
+2 -- Open any Java-supported IDE such as IntelliJ IDEA, Eclipse, NetBeans, and use JDK 21.<br>
+     Open the project named moto_racing, access src/Main.java, and then run it.<br>
 
 ## 💡 Usage Flow
-When running the application, you can execute tasks by calling the task functions of the Cabinet class.  
-Task 1: Display the Game Banner.  
-Task 2: Display the greeting and current time.  
-Task 3: Enter the number of racers and their details (Car Manufacturer, Name, Race Number).  
-Task 4: View the Formation Lap results.  
-Task 5: View the speed leaderboard after the Opening Lap.  
-Task 6: Find the champion racer.  
-Task 7: Run a countdown timer effect.  
+When running the application, you can execute tasks by calling the task functions of the Cabinet class.<br>
+Task 1: Display the Game Banner.<br>
+Task 2: Display the greeting and current time.<br>
+Task 3: Enter the number of racers and their details (Car Manufacturer, Name, Race Number).<br>
+Task 4: View the Formation Lap results.<br>
+Task 5: View the speed leaderboard after the Opening Lap.<br>
+Task 6: Find the champion racer.<br>
+Task 7: Run a countdown timer effect.<br>
 
 ## 📂 Directory structure
 src/  
-├── controller/  
-│   ├── Cabinet.java  
-│   └── RacingManager.java  
-├── data/  
-│   └── DataRacing.java  
-├── entity/  
-│   ├── Aprilia.java  
-│   ├── Ducati.java  
-│   ├── Honda.java  
-│   ├── MotoGp.java  
-│   ├── Racing.java  
-│   └── Yamaha.java  
-├── menu/  
-│   └── Menu.java  
-└── Main.java  
+├── controller/<br>
+│   ├── Cabinet.java<br>
+│   └── RacingManager.java<br>
+├── data/<br>
+│   └── DataRacing.java<br>
+├── entity/<br>
+│   ├── Aprilia.java<br>
+│   ├── Ducati.java<br>
+│   ├── Honda.java<br>
+│   ├── MotoGp.java<br>
+│   ├── Racing.java<br>
+│   └── Yamaha.java<br>
+├── menu/<br>
+│   └── Menu.java<br>
+└── Main.java<br>
 
 ## 🧑‍💻 Members
-(1) Vuong Tran Hieu Nghia - Manager  
-(2) Henry Lecode - Coding  
+(1) Vuong Tran Hieu Nghia - Manager<br>
+(2) Henry Lecode - Coding<br>
 
-## 📄 License  
-This project is copyrighted by **Vuong Tran Hieu Nghia** and distributed under the **MIT License**.  
-You may use, learn from, and modify the source code freely, but please retain the original copyright notice.  
+## 📄 License
+This project is copyrighted by **Vuong Tran Hieu Nghia** and distributed under the **MIT License**.<br>
+You may use, learn from, and modify the source code freely, but please retain the original copyright notice.<br>
 See details in the file [LICENSE](LICENSE)
