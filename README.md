@@ -37,6 +37,12 @@ When running the application, you can execute tasks by calling the task function
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 6: Find the champion racer.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 7: Run a countdown timer effect.<br>
 
+## 🖼️ Images
+![Image of game]([https://link-den-anh-cua-ban.com/image.png](https://github.com/sohatec/moto_racing/blob/main/images/1.png?raw=true))
+![Image of game]([https://link-den-anh-cua-ban.com/image.png](https://github.com/sohatec/moto_racing/blob/main/images/2.png?raw=true))
+![Image of game]([https://link-den-anh-cua-ban.com/image.png](https://github.com/sohatec/moto_racing/blob/main/images/3.png?raw=true))
+![Image of game]([https://link-den-anh-cua-ban.com/image.png](https://github.com/sohatec/moto_racing/blob/main/images/4.png?raw=true))
+
 ## 📂 Directory structure
 src/  
 ├── controller/<br>
