@@ -1,4 +1,4 @@
-#🏍️ Moto GP Racing Game
+# 🏍️ Moto GP Racing Game
 ## 🗒️ Introduction
 This project is a motorcycle racing game.<br>
 You just need to enter the number of racers,<br>
