@@ -56,6 +56,6 @@ src/
 └── Main.java  
 
 ## 🧑‍💻 Members
-(1) Vuong Tran Hieu Nghia | Manager  
-(2) Henry Lecode          | Coding  
+(1) Vuong Tran Hieu Nghia - Manager  
+(2) Henry Lecode - Coding  
 
