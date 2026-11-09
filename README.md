@@ -12,9 +12,9 @@ This game is for all ages; anyone can play.
 * **Console Effects:** Integrates a real-time countdown timer and a vibrant ASCII Art interface.
 
 ## 🛠️ Technology used
-The project is written in Java programming language 
-Using IntelliJ IDEA 2026.2.3 and Amazon Corretto JDK 21.0.12. 
-The project does not use any database management systems or connect to databases.
+The project is written in Java programming language  
+Using IntelliJ IDEA 2026.2.3 and Amazon Corretto JDK 21.0.12  
+The project does not use any database management systems or connect to databases  
 
 ## 🚀 Install and run
 1 -- Open CMD or Git Bash at the location where you want to save the project, 
