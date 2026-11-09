@@ -40,7 +40,7 @@ Task 7: Run a countdown timer effect.<br>
 ## 📂 Directory structure
 src/  
 ├── controller/<br>
-│   ├── Cabinet.java<br>
+│&nbsp;├── Cabinet.java<br>
 │   └── RacingManager.java<br>
 ├── data/<br>
 │   └── DataRacing.java<br>
