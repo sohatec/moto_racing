@@ -44,7 +44,7 @@ public class Menu {
 
     public void greetMenu(){
         System.out.println("_-^-_-^-_-^-_-^-_-^-_-^-_-^-_-^-_-^-_-^-_\n");
-        System.out.println("\t\tWELCOME TO MOTOR GP\n" + "\t\t  🏆🏆🏆 CHAMPION 🏆🏆🏆");
+        System.out.println("\t\tWELCOME TO MOTOR GP\n" + "\t\t  🏆 CHAMPION 🏆");
     }
 
     public void showResultFormationLapMenu(){
