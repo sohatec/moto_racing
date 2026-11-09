@@ -1,8 +1,5 @@
 <h1 align="center">🏍️ Moto GP Racing Game 🏍️</h1>
-<h2>🗒️ Introduction</h2>
-
----
-
+##🗒️ Introduction  
 This project is a motorcycle racing game.<br>
 You just need to enter the number of racers,<br>
 the brand of motorcycle, the racer's name,<br>
@@ -22,6 +19,9 @@ This game is for all ages, anyone can play.
 * **Console Effects:** Integrates a real-time countdown timer and a vibrant ASCII Art interface.
 
 <h2>🛠️ Technology used</h2>
+
+--
+
 The project is written in Java programming language<br>
 Using IntelliJ IDEA 2026.2.3 and Amazon Corretto JDK 21.0.12<br>
 The project does not use any database management systems or connect to databases<br>
