@@ -21,21 +21,21 @@ The project does not use any database management systems or connect to databases
 
 ## 🚀 Install and run
 1 -- Open CMD or Git Bash at the location where you want to save the project,<br>
-     then enter the following command to download the project:<br>
-     `git clone https://github.com/sohatec/moto_racing.git`<br>
-     The download folder name should be "moto_racing".<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then enter the following command to download the project:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git clone https://github.com/sohatec/moto_racing.git`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The download folder name should be "moto_racing".<br>
 2 -- Open any Java-supported IDE such as IntelliJ IDEA, Eclipse, NetBeans, and use JDK 21.<br>
-     Open the project named moto_racing, access src/Main.java, and then run it.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the project named moto_racing, access src/Main.java, and then run it.<br>
 
 ## 💡 Usage Flow
 When running the application, you can execute tasks by calling the task functions of the Cabinet class.<br>
-Task 1: Display the Game Banner.<br>
-Task 2: Display the greeting and current time.<br>
-Task 3: Enter the number of racers and their details (Car Manufacturer, Name, Race Number).<br>
-Task 4: View the Formation Lap results.<br>
-Task 5: View the speed leaderboard after the Opening Lap.<br>
-Task 6: Find the champion racer.<br>
-Task 7: Run a countdown timer effect.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 1: Display the Game Banner.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 2: Display the greeting and current time.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 3: Enter the number of racers and their details (Car Manufacturer, Name, Race Number).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 4: View the Formation Lap results.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 5: View the speed leaderboard after the Opening Lap.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 6: Find the champion racer.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 7: Run a countdown timer effect.<br>
 
 ## 📂 Directory structure
 src/  
@@ -56,7 +56,7 @@ src/
 └── Main.java<br>
 
 ## 🧑‍💻 Members
-(1) Vuong Tran Hieu Nghia - Manager<br>
+(1) Vuong Tran Hieu Nghia - Analyze<br>
 (2) Henry Lecode - Coding<br>
 
 ## 📄 License
