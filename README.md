@@ -1,6 +1,8 @@
 <h1 align="center">🏍️ Moto GP Racing Game 🏍️</h1>
 <h2>🗒️ Introduction</h2>
+
 ---
+
 This project is a motorcycle racing game.<br>
 You just need to enter the number of racers,<br>
 the brand of motorcycle, the racer's name,<br>
@@ -9,7 +11,9 @@ each other and win the championship.<br>
 This game is for all ages, anyone can play.
 
 <h2>🌟 Main features</h2>
+
 ---
+
 * **Register Racers:** Add any number of racers to the tournament.
 * **Diverse Brands:** Supports creating various car models from popular brands: `Ducati`, `Yamaha`, `Honda`, `Aprilia`.
 * **Race Simulation (Formation Lap):** Displays racer information along with a random starting speed (from 300 to under 350 km/h).
@@ -18,9 +22,6 @@ This game is for all ages, anyone can play.
 * **Console Effects:** Integrates a real-time countdown timer and a vibrant ASCII Art interface.
 
 <h2>🛠️ Technology used</h2>
-
----
-
 The project is written in Java programming language<br>
 Using IntelliJ IDEA 2026.2.3 and Amazon Corretto JDK 21.0.12<br>
 The project does not use any database management systems or connect to databases<br>
