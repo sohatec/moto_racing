@@ -18,13 +18,17 @@ This game is for all ages, anyone can play.
 * **Console Effects:** Integrates a real-time countdown timer and a vibrant ASCII Art interface.
 
 <h2>🛠️ Technology used</h2>
+
 ---
+
 The project is written in Java programming language<br>
 Using IntelliJ IDEA 2026.2.3 and Amazon Corretto JDK 21.0.12<br>
 The project does not use any database management systems or connect to databases<br>
 
 <h2>🚀 Install and run</h2>
+
 ---
+
 1 -- Open CMD or Git Bash at the location where you want to save the project,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then enter the following command to download the project:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git clone https://github.com/sohatec/moto_racing.git`<br>
@@ -33,7 +37,9 @@ The project does not use any database management systems or connect to databases
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the project named moto_racing, access src/Main.java, and then run it.<br>
 
 <h2>💡 Usage Flow</h2>
+
 ---
+
 When running the application, you can execute tasks by calling the task functions of the Cabinet class.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 1: Display the Game Banner.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 2: Display the greeting and current time.<br>
@@ -44,7 +50,9 @@ When running the application, you can execute tasks by calling the task function
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 7: Run a countdown timer effect.<br>
 
 <h2>📂 Directory structure</h2>
+
 ---
+
 src/  
 ├── controller/<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── Cabinet.java<br>
@@ -63,12 +71,16 @@ src/
 └── Main.java<br>
 
 <h2>🧑‍💻 Members</h2>
+
 ---
+
 (1) Vuong Tran Hieu Nghia - Analyze<br>
 (2) Henry Lecode - Coding<br>
 
 <h2>📄 License</h2>
+
 ---
+
 This project is copyrighted by **Vuong Tran Hieu Nghia** and distributed under the **MIT License**.<br>
 You may use, learn from, and modify the source code freely, but please retain the original copyright notice.<br>
 See details in the file [LICENSE](LICENSE)
