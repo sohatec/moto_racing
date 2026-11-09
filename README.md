@@ -1,5 +1,4 @@
-#
-<h1 align="center">🏍️ Moto GP Racing Game 🏍️</h1>
+#<h1 align="center">🏍️ Moto GP Racing Game 🏍️</h1>
 ## 🗒️ Introduction  
 This project is a motorcycle racing game.<br>
 You just need to enter the number of racers,<br>
