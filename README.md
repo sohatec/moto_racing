@@ -32,7 +32,7 @@ The project does not use any database management systems or connect to databases
 
 1 -- Open CMD or Git Bash at the location where you want to save the project,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;then enter the following command to download the project:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`git clone https://github.com/sohatec/moto_racing.git`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;git clone [https://github.com/sohatec/moto_racing.git](https://github.com/sohatec/moto_racing.git)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The download folder name should be "moto_racing".<br>
 2 -- Open any Java-supported IDE such as IntelliJ IDEA, Eclipse, NetBeans, and use JDK 21.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open the project named moto_racing, access src/Main.java, and then run it.<br>
