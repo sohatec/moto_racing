@@ -56,8 +56,8 @@ src/
 └── Main.java<br>
 
 ## 🧑‍💻 Members
-(1) Vuong Tran Hieu Nghia - Analyze<br>
-(2) Henry Lecode - Coding<br>
+1. Vuong Tran Hieu Nghia - Analyze<br>
+2. Henry Lecode - Coding<br>
 
 ## 📄 License
 This project is copyrighted by **Vuong Tran Hieu Nghia** and distributed under the **MIT License**.<br>
