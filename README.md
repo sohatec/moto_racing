@@ -59,6 +59,7 @@ src/
 (1) Vuong Tran Hieu Nghia - Manager  
 (2) Henry Lecode - Coding  
 
-## 📄 License This project is copyrighted by **Vuong Tran Hieu Nghia** and distributed under the **MIT License**.  
+## 📄 License  
+This project is copyrighted by **Vuong Tran Hieu Nghia** and distributed under the **MIT License**.  
 You may use, learn from, and modify the source code freely, but please retain the original copyright notice.  
-See details in the file [LICENSE](LICENSE).
+See details in the file [LICENSE](LICENSE)
