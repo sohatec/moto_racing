@@ -7,7 +7,7 @@ and the registration number to race against<br>
 each other and win the championship.<br>
 This game is for all ages, anyone can play.
 
-## 🌟 Main features
+<h3>🌟 Main features</h3>
 * **Register Racers:** Add any number of racers to the tournament.
 * **Diverse Brands:** Supports creating various car models from popular brands: `Ducati`, `Yamaha`, `Honda`, `Aprilia`.
 * **Race Simulation (Formation Lap):** Displays racer information along with a random starting speed (from 300 to under 350 km/h).
