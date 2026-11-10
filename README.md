@@ -37,11 +37,11 @@ When running the application, you can execute tasks by calling the task function
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 6: Find the champion racer.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Task 7: Run a countdown timer effect.<br>
 
-## 🖼️ Images
-![Image of game](https://github.com/sohatec/moto_racing/blob/main/images/1.png?raw=true)<br>
-![Image of game](https://github.com/sohatec/moto_racing/blob/main/images/2.png?raw=true)<br>
-![Image of game](https://github.com/sohatec/moto_racing/blob/main/images/3.png?raw=true)<br>
-![Image of game](https://github.com/sohatec/moto_racing/blob/main/images/4.png?raw=true)<br>
+## 🐳 Docker
+Condition: You must install Docker Desktop software.  
+Open Git Bash/CMD then enter this commend to download and run app.  
+'docker run -it --rm henrylecode/moto_racing:1.0'  
+Docker Hub: [https://hub.docker.com/r/henrylecode/moto_racing](https://hub.docker.com/r/henrylecode/moto_racing)
 
 ## 📂 Directory structure
 src/  
@@ -60,6 +60,12 @@ src/
 ├── menu/<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── Menu.java<br>
 └── Main.java<br>
+
+## 🖼️ Images
+![Image of game](https://github.com/sohatec/moto_racing/blob/main/images/1.png?raw=true)<br>
+![Image of game](https://github.com/sohatec/moto_racing/blob/main/images/2.png?raw=true)<br>
+![Image of game](https://github.com/sohatec/moto_racing/blob/main/images/3.png?raw=true)<br>
+![Image of game](https://github.com/sohatec/moto_racing/blob/main/images/4.png?raw=true)<br>
 
 ## 🧑‍💻 Members
 1. Vuong Tran Hieu Nghia - Analyze<br>
