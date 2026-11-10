@@ -1,9 +1,9 @@
-# Dùng JDK 21 bản nhẹ của Amazon
+# Using light JDK 21 version of Amazon
 FROM amazoncorretto:21-alpine
-# Tạo thư mục làm việc trong container
+# Creating working folder in container
 WORKDIR /app
-# Copy file JAR từ thư mục out của IntelliJ vào container
-# ĐỔI TÊN: Thay "moto_racing_jar" và "moto_racing.jar" bằng tên thật của bạn
+# Copy file JAR from 'out' folder of IntelliJ into container
+# Changed name: Named "moto_racing_jar" and "moto_racing.jar" ny your real name
 COPY out/artifacts/moto_racing_jar/moto_racing.jar /app/moto_racing.jar
-# Lệnh chạy ứng dụng khi container khởi động
+# The commend to run app when container start up
 ENTRYPOINT ["java", "-jar", "/app/moto_racing.jar"]
